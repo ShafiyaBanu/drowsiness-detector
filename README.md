@@ -52,10 +52,6 @@ Drowsiness Detector is a Python-based computer vision project that monitors driv
 * `requirements.txt`: Required Python libraries  
 * `screenshots/`: Folder containing output snapshots
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contributing
 
 Contributions are welcome! Fork the repo and open a pull request.
