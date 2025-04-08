@@ -31,10 +31,10 @@ Drowsiness Detector is a Python-based computer vision project that monitors driv
 ## Getting Started
 
 1. Clone the repository:  
-   `git clone https://github.com/YourUsername/Real-Time-Drowsiness-Detector.git`
+   `git clone https://github.com/ShafiyaBanu/drowsiness-detector.git`
 
 2. Navigate into the folder:  
-   `cd Real-Time-Drowsiness-Detector`
+   `cd drowsiness-detector`
 
 3. Install dependencies:  
    `pip install -r requirements.txt`
